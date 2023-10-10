@@ -1,5 +1,6 @@
-- https://images.app.goo.gl/RcfLVgSdTcCdtZ3y7
 - 
+- ![image](https://github.com/Rjesh2006/Openstack.md/assets/143868643/da6384be-4694-42fa-83ad-9b2c2bd8a908)
+
 # Deploying Openstack by using Devstack
 
 
