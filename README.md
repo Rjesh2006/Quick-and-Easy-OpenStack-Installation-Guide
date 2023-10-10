@@ -1,5 +1,4 @@
-- 
-- ![image](https://github.com/Rjesh2006/Openstack.md/assets/143868643/da6384be-4694-42fa-83ad-9b2c2bd8a908)
+
 
 # Deploying Openstack by using Devstack
 
@@ -66,5 +65,6 @@ HOST_IP=10.208.0.10
 
 - ***And you will successfully get this interface***
 
-- 
+- ![image](https://github.com/Rjesh2006/Openstack.md/assets/143868643/9b3a1b43-7bd2-4e50-8b4a-ffdff7cd0d90)
+
 
